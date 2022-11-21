@@ -7,6 +7,3 @@ function printHelloWorld10Times() {
     }
   
 }
-
-  
-}
